@@ -15,7 +15,7 @@ Project Steps:
 
 3) Set up Arduino Python Connection
 - Open Visual Studio Code and input the attached Python code.
-- The attached code should reference the Keras model and labels and provide the appropriate input to the Arduino when a dag or a human face is being seen by the computer camera.
+- The attached code should reference the Keras model and labels and provide the appropriate input to the Arduino when a dog or a human face is being seen by the computer camera.
 
 4) Test System
 - Close the Arduino IDE.
